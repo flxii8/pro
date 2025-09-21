@@ -1,0 +1,51 @@
+{
+    "7663288070": {
+        "templates": {},
+        "known_chats": {},
+        "broadcasting": {
+            "active": false,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "متوفر تنصيب بوتات سحب اعضاء\nبوتات ميوزك\nبوتات حمايه\nبوتات شد داخلي\nنشر تلقائي\nصيد يوزرات من مستخدمين\nتلغ/يم\n-شحن نجوم تلجرام\nتوثيق تلجرام مميز\nمتوفر جميع طرق الدفع \n@itz14✈️"
+                }
+            ],
+            "interval": 200,
+            "groups": [
+                "channel:2181876891"
+            ],
+            "last_msg_id": []
+        },
+        "scheduling": {
+            "active": true,
+            "step": "count",
+            "templates": [
+                {
+                    "text": "متوفر تنصيب بوتات سحب اعضاء\nبوتات ميوزك\nبوتات حمايه\nبوتات شد داخلي\nنشر تلقائي\nصيد يوزرات من مستخدمين\nتلغ/يم\n-شحن نجوم تلجرام\nتوثيق تلجرام مميز\nمتوفر جميع طرق الدفع \n@itz14✈️"
+                }
+            ],
+            "interval": 200,
+            "count": null,
+            "last_msg_id": [
+                954
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 200,
+            "template_pattern": "كل",
+            "groups": [
+                "channel:2181876891"
+            ],
+            "templates": [
+                {
+                    "text": "متوفر تنصيب بوتات سحب اعضاء\nبوتات ميوزك\nبوتات حمايه\nبوتات شد داخلي\nنشر تلقائي\nصيد يوزرات من مستخدمين\nتلغ/يم\n-شحن نجوم تلجرام\nتوثيق تلجرام مميز\nمتوفر جميع طرق الدفع \n@itz14✈️"
+                }
+            ],
+            "group_rotation": {
+                "2181876891": 83
+            }
+        }
+    }
+}

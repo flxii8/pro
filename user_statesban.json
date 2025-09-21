@@ -5,12 +5,16 @@
       "2025-09-20": {
         "success": 4920,
         "fail": 0
+      },
+      "2025-09-21": {
+        "success": 800,
+        "fail": 0
       }
     },
     "total": {
-      "success": 4920,
+      "success": 5720,
       "fail": 0
     },
-    "last_active": 1758404142.2104347
+    "last_active": 1758460137.3358924
   }
 }
